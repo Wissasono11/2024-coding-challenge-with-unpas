@@ -1,3 +1,6 @@
+//2024 Coding Challenge with UNPAS
+// 1/366
+
 // function grow(x){
 //     let hasil = x[0];
 //     for(let i = 1; i < x.length; i++){
