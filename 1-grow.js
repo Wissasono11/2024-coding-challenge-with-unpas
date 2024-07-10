@@ -1,4 +1,4 @@
-//2024 Coding Challenge with UNPAS
+//2024 Coding Challenge with WPU
 //day 1/366
 
 // function grow(x){

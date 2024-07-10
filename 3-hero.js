@@ -1,4 +1,4 @@
-//2024 Coding Challenge with UNPAS
+//2024 Coding Challenge with WPU
 //day 3/366
 
 // function hero(bullets, dragons){
