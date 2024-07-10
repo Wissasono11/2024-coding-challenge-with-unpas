@@ -1,5 +1,5 @@
 //2024 Coding Challenge with UNPAS
-// 2/366
+//day 2/366
 
 // const reverseSeq = (n) => {
 //     const result = []
