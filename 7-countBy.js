@@ -1,5 +1,5 @@
 //2024 Coding Challenge with WPU
-//day 6/366
+//day 7/366
 
 // function countBy(x, n) {
 //     let z = [];
