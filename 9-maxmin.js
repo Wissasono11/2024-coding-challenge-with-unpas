@@ -30,8 +30,8 @@
 // console.log(max([-52, 56, 39, 29, -54, 0, -110]))
 
 // menggunakan function math.min dan math.max
-// const min = (list) => Math.min(...list)
-// const max = (list) => Math.max(...list)
+const min = (list) => Math.min(...list)
+const max = (list) => Math.max(...list)
 
 
 console.log(min([-52, 56, 39, 29, -54, 0, -110]))
