@@ -1,5 +1,5 @@
 //2024 Coding Challenge with WPU
-//day 18/366
+//day 19/366
 //https://www.codewars.com/kata/57eaeb9578748ff92a000009
 
 //bisa menggunakan 
