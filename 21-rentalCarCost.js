@@ -1,5 +1,5 @@
 //2024 Coding Challenge with WPU
-//day 20/366
+//day 21/366
 //https://www.codewars.com/kata/568d0dd208ee69389d000016
 
 function rentalCarCost(d) {
