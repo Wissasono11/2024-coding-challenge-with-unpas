@@ -27,6 +27,7 @@ function enough(cap, on, wait) {
 
 // Math.max vers
 const enough = (cap, on, wait) => Math.max(wait + on - cap, 0)
+
 //one-liner lover
 const enough = (cap, on, wait) => cap >= on + wait ? 0 : wait - (cap - on)
 
