@@ -12,7 +12,7 @@ function hoopCount(n){
 
 //switch case vers
 function hoopCount(n){
-    switch(true){
+    switch(n){
         case(n >= 10):
             return "Great, now move on to tricks"
         case(n <= 10):
